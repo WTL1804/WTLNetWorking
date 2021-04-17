@@ -1,0 +1,6 @@
+framework module WTLNetWorking {
+  umbrella header "WTLNetWorking-umbrella.h"
+
+  export *
+  module * { export * }
+}
